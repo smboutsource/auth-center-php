@@ -1,0 +1,12 @@
+{
+    "name": "smb/auth-center",
+    "description": "Package PHP untuk login ke SMB Auth Center",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Smb\\AuthCenter\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
