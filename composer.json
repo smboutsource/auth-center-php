@@ -1,10 +1,10 @@
 {
-    "name": "smb/auth-center",
+    "name": "hokibgs/auth-center",
     "description": "Package PHP untuk login ke SMB Auth Center",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Smb\\AuthCenter\\": "src/"
+            "Hokibgs\\AuthCenter\\": "src/"
         }
     },
     "minimum-stability": "stable",
